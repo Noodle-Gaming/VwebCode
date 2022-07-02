@@ -1,4 +1,9 @@
 .html + .css + .js {
     width: 600px;
-    height: calc(height / 3);
+    height: 33.3vh;
+    background-color:#323232;
+}
+
+body {
+    background-color: #212121;
 }
