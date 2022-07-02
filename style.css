@@ -1,0 +1,4 @@
+.html + .css + .js {
+    width: 600px;
+    height: calc(height / 3);
+}
